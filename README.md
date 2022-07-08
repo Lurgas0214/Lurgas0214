@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lurgas
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on javascript, react, angularjs, sharepoint projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning react native / typescript
+- 💞️ I’m looking to collaborate on javascript, typescript, react, sharepoint projects
+- 📫 How to reach me... 
 
 <!---
 Lurgas0214/Lurgas0214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
