@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Lurgas
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react native / typescript
+- 🌱 I’m currently learning
+-   react native / typescript
+-   spfx webparts
+-   powerplatform
 - 💞️ I’m looking to collaborate on javascript, typescript, react, sharepoint projects
 - 📫 How to reach me... 
 
